@@ -1,0 +1,22 @@
+<suite name="Guru99">
+    <test name="MobilePage">
+        <classes>
+            <class name="MobilePageTest"/>
+        </classes>
+    </test>
+    <test name="CreateAccount">
+        <classes>
+            <class name="CreateAccountTest"/>
+        </classes>
+    </test>
+    <test name="PurchaseProducts">
+        <classes>
+            <class name="PurchaseProductsTest"/>
+        </classes>
+    </test>
+    <test name="ReorderProductTest">
+        <classes>
+            <class name="ReorderProductTest"/>
+        </classes>
+    </test>
+</suite>
